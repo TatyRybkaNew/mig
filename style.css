@@ -1,0 +1,44 @@
+header  {
+border:3px solid rgb(224, 224, 224);
+text-align: center;
+border-radius: 10px;
+font-size:32px;
+
+}
+
+
+img{
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 13px;
+    color: white;
+}
+
+ main,p {
+    text-align: center;
+ border: 3 px solid gray;
+    background-color: gray;
+    border-radius: 10px;
+    color: white;
+    
+ }
+table{
+    border:3px solid rgb(0, 0, 0);
+    border-collapse:collapse;
+    margin-left: 570px;
+    color: white;
+ }
+
+ tr {
+    border:3px solid gray;
+
+ }
+ td{
+   padding:20px
+ }
+ footer{
+   background-color: white;
+   color:black;
+ }
